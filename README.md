@@ -28,7 +28,7 @@ This project is developed using the ASP.NET MVC 5 (Model-View-Controller) design
 
 1. Clone the project to your computer:
    ```bash
-   git clone https://github.com/user/admin-panel-blog-site.git
+   git clone https://github.com/emirhancibir/Blog_Cite.git
 
 2. Open the project using Visual Studio or a similar IDE.
 
